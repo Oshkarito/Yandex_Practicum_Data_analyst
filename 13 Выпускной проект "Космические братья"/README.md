@@ -23,3 +23,5 @@
 
 ### Навыки и инструменты:
 `Python` `Pandas` `Numpy` `Seaborn` `Matplotlib` `Scipy`  `Plotly`, Tableau, Power Point.
+
+### Статус проекта завершен. :heavy_check_mark:
