@@ -8,3 +8,5 @@
 
 `Python`, `Pandas`, `SQLAlchemy`, `PostgreSQL`
 * SQL-запросы из Python
+
+### Статус проекта завершен. :heavy_check_mark:
